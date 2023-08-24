@@ -11,7 +11,7 @@
 🔗 [**Twitter**](https://twitter.com/alshembari)
 
 ---
-![Sample Image](assets/5.jpg)
+![Sample Image](assets/image/5.jpg)
 
 --
 
