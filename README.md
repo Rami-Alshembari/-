@@ -7,10 +7,14 @@
 🎓 **University of Exeter, UK**  
 
 📞 **+44 7541 303 75** | 📧 [**ra500@exeter.ac.uk**](mailto:ra500@exeter.ac.uk)  
-🔗 [**LinkedIn: rashemb**](https://www.linkedin.com/in/rashemb)  
-🔗 [**Twitter: @alshembari**](https://twitter.com/alshembari)
+🔗 [**LinkedIn**](https://www.linkedin.com/in/rashemb)  
+🔗 [**Twitter**](https://twitter.com/alshembari)
 
 ---
+![Sample Image](assets/5.jpg)
+
+--
+
 
 ## 📚 **Education**
 
