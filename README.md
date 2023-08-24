@@ -21,7 +21,7 @@ _Ph.D. Geology (2019-2023)_
 - 📜 **Title**: Exploring the influence of trans-crustal magmatic systems on volcano deformation  
 - 🎓 **Supervisors**: Dr. James Hickey, Prof. Ben Williamson & Prof. Katharine Cashman
 
-### **ICTP, Italy**
+### **The International Centre for Theoretical Physics, Italy**
 _Postgraduate Diploma in Earth System Physics (2017-2018)_  
 - 📜 **Title**: Assessing the effects of frozen surface soil layer on earthquake site response  
 - 🎓 **Supervisors**: Prof. Stefano Parolai & Dr. Denis Sandron
@@ -35,6 +35,12 @@ _B.Sc. Physics (2013-2017)_
 
 ## 🖊️ **Experience**
 
+
+### **University of Exeter, UK**
+📚 _Postdoctoral Research Fellow_  
+- Provided tutorials for CSM undergraduate students.
+
+
 ### **University of Exeter - Falmouth Exeter Plus, UK**
 📚 _Maths and Stats Support (2019 - Present)_  
 - Provided tutorials for CSM undergraduate students.
@@ -47,7 +53,7 @@ _B.Sc. Physics (2013-2017)_
   - Mathematics
   - Electronic Lab
 
-### **ICTP, Italy**
+### **The International Centre for Theoretical Physics, Italy**
 🔍 _Research Grant in Earthquake Seismology (2018-2019)_  
 - Researched the seasonal effect on earthquake site response.
 
