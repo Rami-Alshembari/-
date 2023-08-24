@@ -46,6 +46,13 @@
 
 ---
 
+- **Postdoctoral Research Fellow**
+  - **Organization:** University of Exeter
+  - **Location:** Exeter, UK
+  - **Date:** [Start Date]-Present
+  - **Tasks/Responsibilities:** 
+    - [List the tasks and responsibilities here, or any projects or research areas you're involved in.]
+
 - **Maths and stats support for University of Exeter CSM students**
   - **Organization:** University of Exeter - Falmouth Exeter Plus (FX Plus)
   - **Location:** Falmouth, UK
@@ -99,7 +106,7 @@
 ### Journal Articles:
 
 - 2023: [Alshembari, Rami, Karen Pascal, and James Hickey. "The Poroelastic long-term surface deformation at Soufrière Hills volcano, Montserrat" (In preparation)]
-- 2023: Alshembari, Rami, and James Hickey. "Unveiling the rheological control of magmatic systems on volcano deformation: the interplay of poroviscoelastic magma-mush and thermo-viscoelastic crust" (Under review)
+- 2023: [Alshembari, Rami, James Hickey, Ben J. Williamson, and Katharine Cashman. "Unveiling the rheological control of magmatic systems on volcano deformation: The interplay of poroviscoelastic magma‐mush and thermo‐viscoelastic crust." Journal of Geophysical Research: Solid Earth (2023): e2023JB026625.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JB026625)
 - 2022: [Alshembari, Rami, James Hickey, Ben J. Williamson, and Katharine Cashman. ”Poroelastic Mechanical Behavior of Crystal Mush Reservoirs: Insights Into the Spatio-Temporal Evolution of Volcano Surface Deformation (2022)” Journal of Geophysical Research: Solid Earth, e2022JB024332](https://doi.org/10.1029/2022JB024332)
 - 2022: [Alshembari, Rami, James Hickey, Ben J. Williamson, and Katharine Cashman. "Exploring the role of fluid-solid interactions for modelling volcano deformation." Journal of Volcanology and Geothermal Research 426 (2022): 107535](https://doi.org/10.1016/j.jvolgeores.2022.107535)
 - 2019: [Alshembari, Rami, Stefano Parolai, Tobias Boxberger, Denis Sandron, Marco Pilz, and Natalya Sylacheva. "Seasonality in site response: An example from two historical earthquakes in Kazakhstan." Seismological research letters 91, no. 1 (2020): 415-426](https://doi.org/10.1785/0220190114)
@@ -108,6 +115,5 @@
 
 - 2022: [Alshembari, Rami, James Hickey, and Katharine Cashman. "A thermo-poro-viscoelastic approach for modelling volcanic deformation." AGU Fall Meeting Abstracts. 2022](https://www.agu.org/Fall-Meeting/Pages/default.aspx)
 
-### Datasets:
-
-- 2022: [Alshembari, Rami, and James Hickey. "Thermo-poro-viscoelastic material properties for crust and magmatic systems." University of Exeter. Research Data Repository. 2022](https://ore.exeter.ac.uk/repository/handle/10871/124346)
+---
+![Sample Image](assets/image/55.jpg)
