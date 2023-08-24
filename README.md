@@ -1,5 +1,5 @@
-![Sample Image](assets/image/55.jpg)
-## _Geophysics, Geology, Volcanology, Seismology_
+## Postdoctoral Research Fellow at the University of Exeter
+### _Geophysics, Geology, Volcanology, Seismology_
 
 ---
 
@@ -17,7 +17,7 @@
 ## 📚 **Education**
 
 ### **University of Exeter, UK**
-_Ph.D. Geology (2019-Present)_  
+_Ph.D. Geology (2019-2023)_  
 - 📜 **Title**: Exploring the influence of trans-crustal magmatic systems on volcano deformation  
 - 🎓 **Supervisors**: Dr. James Hickey, Prof. Ben Williamson & Prof. Katharine Cashman
 
@@ -100,4 +100,5 @@ _B.Sc. Physics (2013-2017)_
 - 🎤 2022: Speaker for "European Strategy Forum on Research Infrastructures", Paris.
 
 ---
+![Sample Image](assets/image/55.jpg)
 
