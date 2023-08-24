@@ -1,3 +1,19 @@
+## Postdoctoral Research Fellow
+### _Geophysics, Geology, Volcanology, Seismology_
+
+---
+
+**📍 Department of Earth and Environmental Sciences**  
+🎓 **University of Exeter, UK**  
+
+📞 **+44 7541 303 75** | 📧 [**ra500@exeter.ac.uk**](mailto:ra500@exeter.ac.uk)  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/rashemb)  
+🔗 [**Twitter**](https://twitter.com/alshembari)
+
+
+--
+
+
 ## Education
 
 ---
