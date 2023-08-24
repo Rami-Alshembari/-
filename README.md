@@ -96,7 +96,6 @@ _B.Sc. Physics (2013-2017)_
 ## 🌟 **Outreach and Engagement**
 - 🎤 2018: Speaker for "Physics Without Frontiers" Program, Trieste.
 - 🎤 2022: Speaker for "European Strategy Forum on Research Infrastructures", Paris.
-- 🌌 Volunteered for public outreach events with the Society of Astronomical Amateurs in Gaza.
 
 ---
 
