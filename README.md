@@ -1,4 +1,4 @@
-# 🌍 **Rami Alshembari**
+![Sample Image](assets/image/55.jpg)
 ## _Geophysics, Geology, Volcanology, Seismology_
 
 ---
@@ -10,8 +10,6 @@
 🔗 [**LinkedIn**](https://www.linkedin.com/in/rashemb)  
 🔗 [**Twitter**](https://twitter.com/alshembari)
 
----
-![Sample Image](assets/image/55.jpg)
 
 --
 
