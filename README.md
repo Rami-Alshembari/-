@@ -1,6 +1,6 @@
-# Data Scientist
+# Geophysicist - Volcanologist - Seismologist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
