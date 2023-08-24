@@ -4,7 +4,7 @@
 ---
 
 **📍 Department of Earth and Environmental Sciences**  
-🎓 **University of Exeter, Falmouth, UK**  
+🎓 **University of Exeter, UK**  
 
 📞 **+44 7541 303 75** | 📧 [**ra500@exeter.ac.uk**](mailto:ra500@exeter.ac.uk)  
 🔗 [**LinkedIn: rashemb**](https://www.linkedin.com/in/rashemb)  
@@ -14,17 +14,17 @@
 
 ## 📚 **Education**
 
-### **University of Exeter, Falmouth, UK**
+### **University of Exeter, UK**
 _Ph.D. Geology (2019-Present)_  
 - 📜 **Title**: Exploring the influence of trans-crustal magmatic systems on volcano deformation  
 - 🎓 **Supervisors**: Dr. James Hickey, Prof. Ben Williamson & Prof. Katharine Cashman
 
-### **ICTP, Trieste, Italy**
+### **ICTP, Italy**
 _Postgraduate Diploma in Earth System Physics (2017-2018)_  
 - 📜 **Title**: Assessing the effects of frozen surface soil layer on earthquake site response  
 - 🎓 **Supervisors**: Prof. Stefano Parolai & Dr. Denis Sandron
 
-### **IUG, Gaza, Palestine**
+### **IUG, Palestine**
 _B.Sc. Physics (2013-2017)_  
 - 📜 **Title**: The impact of fluid substitution on the seismic AVO response  
 - 🎓 **Supervisors**: Dr. Mosab Nasser & Prof. Mohammed Shabat
@@ -37,7 +37,7 @@ _B.Sc. Physics (2013-2017)_
 📚 _Maths and Stats Support (2019 - Present)_  
 - Provided tutorials for CSM undergraduate students.
 
-### **University of Exeter, Falmouth, UK**
+### **University of Exeter, UK**
 📚 _Teaching Assistant (2019 - Present)_  
 - Assisted in undergraduate courses:
   - Practical Geophysics
@@ -45,7 +45,7 @@ _B.Sc. Physics (2013-2017)_
   - Mathematics
   - Electronic Lab
 
-### **ICTP & OGS, Trieste, Italy**
+### **ICTP, Italy**
 🔍 _Research Grant in Earthquake Seismology (2018-2019)_  
 - Researched the seasonal effect on earthquake site response.
 
